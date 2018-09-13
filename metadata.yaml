@@ -1,5 +1,8 @@
 _repo: Opiniones-Obras-Completas-Vol-X_51604
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51604-h/images/cover.jpg
 creator:
   author:
     agent_name: Darío, Rubén
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31590
     wikipedia: http://en.wikipedia.org/wiki/Rub%C3%A9n_Dar%C3%ADo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51604#Opiniones-Obras-Completas-Vol-X
 gutenberg_issued: '2016-03-30'
 gutenberg_type: Text
 identifiers:
